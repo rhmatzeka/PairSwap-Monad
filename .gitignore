@@ -1,0 +1,12 @@
+contracts/cache/
+contracts/out/
+contracts/lib/
+web/node_modules/
+web/.next/
+web/.env*
+!web/.env.example
+!web/.env.local.example
+.agents/
+.claude/
+agent/
+skills-lock.json
