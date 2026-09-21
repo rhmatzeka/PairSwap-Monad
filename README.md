@@ -71,3 +71,7 @@ Deploy `Factory` first (see `script/DeployFactory.s.sol`), then call `Factory.cr
 | `contracts/test/` | Foundry tests and a mock token |
 | `web/app/page.tsx` | The swap and liquidity page (quotes, slippage, price impact) |
 | `DEPLOY_AND_RUN.md` | Step-by-step deploy and demo guide |
+
+## License
+
+Released under the [MIT License](LICENSE).
